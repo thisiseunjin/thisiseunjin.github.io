@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.fbbaa4ef.css",
-    "main.js": "/static/js/main.f59e489f.js",
+    "main.css": "/static/css/main.36f76111.css",
+    "main.js": "/static/js/main.f7797a87.js",
     "static/js/453.10dfee66.chunk.js": "/static/js/453.10dfee66.chunk.js",
     "static/media/PyeongChang-Regular.ttf": "/static/media/PyeongChang-Regular.2c5f76d8c748e39c7b00.ttf",
     "static/media/Pretendard.ttf": "/static/media/Pretendard.b9ebb1f74c04287eb16a.ttf",
@@ -11,12 +11,12 @@
     "static/media/Pretendard.woff": "/static/media/Pretendard.8ebb871e8b62b47c2793.woff",
     "static/media/rainbowBackground.png": "/static/media/rainbowBackground.10d6faf2ec5adbba7602.png",
     "index.html": "/index.html",
-    "main.fbbaa4ef.css.map": "/static/css/main.fbbaa4ef.css.map",
-    "main.f59e489f.js.map": "/static/js/main.f59e489f.js.map",
+    "main.36f76111.css.map": "/static/css/main.36f76111.css.map",
+    "main.f7797a87.js.map": "/static/js/main.f7797a87.js.map",
     "453.10dfee66.chunk.js.map": "/static/js/453.10dfee66.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fbbaa4ef.css",
-    "static/js/main.f59e489f.js"
+    "static/css/main.36f76111.css",
+    "static/js/main.f7797a87.js"
   ]
 }
